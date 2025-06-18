@@ -10,7 +10,7 @@ typing
 sentencepiece
 opencv-python
 bitsandbytes
-urllib3==1.26.19
+urllib3==2.5.0
 adamw_bf16
 glob2
 onnxruntime
